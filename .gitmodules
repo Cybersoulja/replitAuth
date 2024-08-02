@@ -1,0 +1,3 @@
+[submodule "mesop"]
+	path = mesop
+	url = https://github.com/google/mesop
